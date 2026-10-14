@@ -1,3 +1,19 @@
+# Learning repository — attribution
+
+**Original repository:** [EmertonData/genai-practice](https://github.com/EmertonData/genai-practice)
+
+**Original authors / maintainers:** Emerton Data course instructors
+
+**Purpose of this fork:** study, coursework and reference.
+
+This repository contains instructor-provided GenAI in Practice teaching notebooks and corrections. It is learning material, not my independently created application.
+
+Fork ownership does not imply authorship of the upstream project. Original license notices, credits and contribution history are retained; consult the upstream repository and the license files below for reuse terms.
+
+---
+
+## Original upstream README
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmertonData/glide/refs/heads/main/docs/assets/logo-ed.jpg" alt="Emerton Data" height="50" align="middle">
   &nbsp;&nbsp;&nbsp;
